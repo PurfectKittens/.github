@@ -6,11 +6,11 @@ Just a Team
 
 We love cat and GPU
 
-* 🌍  I'm based in an Web Server
-* ✉️  You can contact me at [yudaol.zero@gmail.com & 0xaa55@8086.re](mailto:yudaol.zero@gmail.com & 0xaa55@8086.re)
-* 🚀  I'm currently working on [Bruteforcer\_Alerte](http://github.com/Yudaol/Bruteforcer_Alert)
-* 🧠  I'm learning C++ & Nim & TypeScript
-* 🤝  I'm open to collaborating on Bruteforcer\_Alerte
+* 🌍  We're based in an Web Server
+* ✉️  You can contact us at [yudaol.zero@gmail.com & 0xaa55@8086.re](mailto:yudaol.zero@gmail.com & 0xaa55@8086.re)
+* 🚀  We're currently working on [Bruteforcer\_Alerte](http://github.com/Yudaol/Bruteforcer_Alert)
+* 🧠  We're learning C++ & Nim & TypeScript
+* 🤝  We're open to collaborating on Bruteforcer\_Alerte
 * ⚡  We love kitten
 
 ### Skills
