@@ -28,6 +28,7 @@ int main() {
         std::vector<Membre> membres;
 
         membres.emplace_back("Kittygirlyy", 18, "Dev");
+        membres.emplace_back("Yudaol", 15, "Cybersec");
 
         for (const auto& membre : membres) {
             membre.afficher();
